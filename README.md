@@ -1,5 +1,5 @@
 # ansible-ahv-provider-plugin
-Ansible plugin to integrate with Nutanix Enterprise Cloud
+Ansible AHV plugin to integrate with Nutanix Enterprise Cloud
 
 
 # Building and installing the collection locally
